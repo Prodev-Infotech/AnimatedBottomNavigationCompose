@@ -2,10 +2,11 @@
 
 AnimatedBottomBar is bottom navigation bar with customizable animated tabs
 
-![](media/demo.gif)
+
+<img src="media/demo.gif" width="400" height="600" />
 
 ## How to use
-
+```kotlin  
 BubbleNavigationBar{
     navigationItems.forEach { navigationItem ->
         BubbleNavigationBarItem(
@@ -19,3 +20,4 @@ BubbleNavigationBar{
         )
     }
 }
+```
