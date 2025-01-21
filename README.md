@@ -3,7 +3,7 @@
 AnimatedBottomBar is bottom navigation bar with customizable animated tabs
 
 
-<img src="media/demo.gif" width="400" height="600" />
+<img src="media/demo.gif" width="300" height="600" />
 
 ## How to use
 ```kotlin  
